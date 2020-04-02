@@ -5,7 +5,7 @@ This plugin lets you clean unused classes and rename classes sitewide after doin
 ## Benefits
 
 1. Rename classes throughout the site across all Pages/Templates etc. without manually removing the class, adding a new class and re-adding all the properties.
-2. Scan for and delete all the unused classes i.e., classes that have not been assigned to any elements.
+2. Scan for and delete all the unused classes sitewide i.e., classes that have not been assigned to any elements.
 
 ## Installation
 
