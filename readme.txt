@@ -23,9 +23,11 @@ A valid license key must be entered for the plugin to work and to receive automa
 
 == Changelog ==
 
-= 1.0.1 - April 08, 2020 =
+= 1.0.1 (April 08, 2020) =
+
 * Fix: Fixed compatibility issue with our upcoming Oxy Undo plugin.
 * Enhancement: Added steps to license the plugin in the settings page.
 
-= 1.0 - April 02, 2019 =
+= 1.0 (April 02, 2019) =
+
 * Initial Release.
