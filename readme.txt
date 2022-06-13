@@ -23,6 +23,10 @@ A valid license key must be entered for the plugin to work and to receive automa
 
 == Changelog ==
 
+= 1.0.2 (June 13, 2022) =
+
+* Updated CSS for Oxygen 4.0.
+
 = 1.0.1 (April 08, 2020) =
 
 * Fix: Fixed compatibility issue with our upcoming Oxy Undo plugin.
