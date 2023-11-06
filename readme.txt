@@ -32,6 +32,9 @@ Valid license key should be entered for the plugin to function and to receive au
 
 == Changelog ==
 
+= 1.0.4 - November 06, 2023 =
+* Fixed the issue with corrupt data on class rename.
+
 = 1.0.3 - March 01, 2023 =
 * Fixed the issue with class renaming working only on the current post.
 
