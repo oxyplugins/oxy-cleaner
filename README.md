@@ -19,5 +19,22 @@ A valid license key must be entered for the plugin to work and to receive automa
 
 ## Changelog
 
+### 1.0.4 - November 06, 2023
+
+- Fixed the issue with corrupt data on class rename.
+
+### 1.0.3 - March 01, 2023
+
+- Fixed the issue with class renaming working only on the current post.
+
+### 1.0.2 - June 13, 2022
+
+- Updated CSS for Oxygen 4.0.
+
+### 1.0.1 - April 08, 2020
+
+- Fix: Fixed compatibility issue with our upcoming Oxy Undo plugin.
+- Enhancement: Added steps to license the plugin in the settings page.
+
 ### 1.0 - April 02, 2019
 * Initial Release.
