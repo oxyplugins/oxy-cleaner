@@ -2,8 +2,8 @@
 Contributors: Gagan Goraya, Sridhar Katakam
 Tags: oxygen, oxygen builder, oxygen editor
 Requires at least: 4.9
-Tested up to: 5.4
-Requires PHP: 5.6
+Tested up to: 6.4.3
+Requires PHP: 7.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,6 +31,9 @@ Benefits
 Valid license key should be entered for the plugin to function and to receive automatic updates.
 
 == Changelog ==
+
+= 1.0.5 - February 09, 2023 =
+* Implemented a settings tab so users can specify certain post types to be ignored. This fixes long scanning time issues.
 
 = 1.0.4 - November 06, 2023 =
 * Fixed the issue with corrupt data on class rename.
