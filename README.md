@@ -19,6 +19,14 @@ A valid license key must be entered for the plugin to work and to receive automa
 
 ## Changelog
 
+### 1.0.6 - December 16, 2024
+
+- Fixed used classes being detected as un-used.
+
+### 1.0.5 – February 09, 2024
+
+- Implemented a settings tab so users can specify certain post types to be ignored. This fixes long scanning time issues.
+
 ### 1.0.4 - November 06, 2023
 
 - Fixed the issue with corrupt data on class rename.
